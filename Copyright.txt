@@ -1,0 +1,13 @@
+Copyright Notice:
+---------------------------------------------------------------
+The MATLAB Simulink model contained in this repository (hereinafter referred to as the "controller_dyno" including all subsystems) and any associated documentation are protected by copyright law.
+
+All rights to this Model are owned by Shivam Rane unless otherwise indicated. This Model is provided for educational and informational purposes only and may not be reproduced, distributed, modified, or used for commercial purposes without the explicit permission of the copyright owner.
+
+Permission is hereby granted to use this Model for non-commercial purposes, provided that the original copyright notice and this permission notice appear in all copies of the Model or portions thereof.
+
+If you have any questions regarding the permitted use of this Model or wish to obtain permission for commercial use, please contact Shivam Rane at shivamprane@gmail.com.
+
+Shivam Rane
+Email: shivamprane@gmail.com
+Date: 04/04/2024
